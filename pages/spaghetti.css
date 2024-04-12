@@ -1,0 +1,32 @@
+body {
+    background: wheat;
+  }
+
+
+  h1 {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+
+
+  h2 {
+
+    text-align: center;
+  }
+  
+  
+
+  h3 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+    font-family: monospace;
+    color: black;
+  }
+
+
+
+
